@@ -1,4 +1,3 @@
-# 欢迎来到我的网站
 ## 数据库第一章笔记
 # 1.创建数据库：CREATE DATABASE  [IF NOT EXISTS] 数据库名；    
 # 2.显示数据库：SHOW DATABASES;
